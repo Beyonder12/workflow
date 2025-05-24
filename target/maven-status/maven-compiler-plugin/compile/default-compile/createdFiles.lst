@@ -1,0 +1,10 @@
+org/kie/kogito/flexible/example/model/Product.class
+org/kie/kogito/flexible/example/model/State.class
+org/kie/kogito/flexible/example/HelloService.class
+org/kie/kogito/flexible/example/service/TriageService.class
+org/kie/kogito/flexible/example/model/Comment.class
+org/kie/kogito/flexible/example/service/CommentService.class
+org/kie/kogito/flexible/example/Hello.class
+org/kie/kogito/flexible/example/model/SupportCase.class
+org/kie/kogito/flexible/example/model/Questionnaire.class
+org/kie/kogito/flexible/example/service/StateService.class
